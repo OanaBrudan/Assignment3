@@ -1,0 +1,13 @@
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\Doctors.exe.config
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\Doctors.exe
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\Doctors.pdb
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\System.Net.Http.Formatting.dll
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\Newtonsoft.Json.dll
+E:\pt faculta\ps\ThirdAssignment\Doctors\bin\Debug\System.Net.Http.Formatting.xml
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.DoctorF.resources
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.DoctorLogin.resources
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.Properties.Resources.resources
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.csproj.GenerateResource.Cache
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.exe
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.pdb
+E:\pt faculta\ps\ThirdAssignment\Doctors\obj\Debug\Doctors.csprojResolveAssemblyReference.cache

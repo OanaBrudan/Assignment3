@@ -1,0 +1,11 @@
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\Administrator.exe.config
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\Administrator.exe
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\Administrator.pdb
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\System.Net.Http.Formatting.dll
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\Newtonsoft.Json.dll
+E:\pt faculta\ps\ThirdAssignment\Administrator\bin\Debug\System.Net.Http.Formatting.xml
+E:\pt faculta\ps\ThirdAssignment\Administrator\obj\Debug\Administrator.Admin.resources
+E:\pt faculta\ps\ThirdAssignment\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+E:\pt faculta\ps\ThirdAssignment\Administrator\obj\Debug\Administrator.csproj.GenerateResource.Cache
+E:\pt faculta\ps\ThirdAssignment\Administrator\obj\Debug\Administrator.exe
+E:\pt faculta\ps\ThirdAssignment\Administrator\obj\Debug\Administrator.pdb
